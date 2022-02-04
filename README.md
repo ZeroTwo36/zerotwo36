@@ -10,7 +10,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=zerotwo36)  
-^^ Can we get this to 69.420 Views?
 
 ## Who am I, exactly?  
 * Moderator @ https://infinitybotlist.com and https://dscjobs.org  
