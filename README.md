@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**ZeroTwo36/zerotwo36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently improving my Knowledge in JS
+- 👯 I’m open for collabs!  
+- 💬 Ask me about my Bots!  
+- 📫 How to reach me: mail zerotwo36@protonmail.com or DM ZeroTwo#9568
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I am pretty toxic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://komarev.com/ghpvc/?username=zerotwo36)  
+^^ Can we get this to 69.420 Views?
+
+## Who am I, exactly?  
+* Moderator @ https://infinitybotlist.com and https://dscjobs.org  
+* Co-Founder of https://topicbotlist.ml  
+* ZeroTwo36 on GitHub and Repl.IT
