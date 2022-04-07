@@ -22,7 +22,7 @@ TECH_STACKS = ("Angular", "FastAPI", "Vue", "SQL(ite/alchemy)", "Flask", "Expres
 
 # ❤️🧑‍💻 Active Projects
 
-[![Lilia](https://github-readme-stats.vercel.app/api/pin/?username=ZeroTwo36&repo=infinpy&theme=tokyonight)](https://github.com/ZeroTwo36/Infinipy)
+[![Lilia](https://github-readme-stats.vercel.app/api/pin/?username=ZeroTwo36&repo=infinipy&theme=tokyonight)](https://github.com/ZeroTwo36/Infinipy)
 [![Nekos.Net](https://github-readme-stats.vercel.app/api/pin/?username=ZeroTwo36&repo=DscJobs.py&show_owner=true&theme=tokyonight)](https://github.com/ZeroTwo36/DscJobs.py)
 
 # 📊 Statistics
