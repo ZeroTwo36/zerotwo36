@@ -1,23 +1,22 @@
 # 👋 Introduction
 
-```py
+```scala
 
-#  Short information about me
+//  Short information about me
 
-NICKNAME = "ZeroTwo36"
-REALNAME = "Johanna"
-BIRTHDAY = "26/02/2002"
-GENDER = Gender().Female
-NATIONALITY = Country().Germany
-OCCUPATION = "Free/Paid Developer and DB Admin"
-HOME_PLACE = "Dresden"
+val NICKNAME = "ZeroTwo36"
+val REALNAME = "Johanna"
+val BIRTHDAY = "26/02/2002"
+val GENDER = Gender().Female
+val NATIONALITY = Country().Germany
+val OCCUPATION = "Free/Paid Developer and DB Admin"
 
 #
 #  Self-explanatory 
 #
 
-LANGUAGES = ("Python", "C++", "JavaScript", "PHP","SQL", "HTML","Scala","Java","C","F#","ForTran","RPG","E","D","GoLang")
-TECH_STACKS = ("Angular", "FastAPI", "Vue", "SQL(ite/alchemy)", "Flask", "ExpressJS", "Pyramid", "React")
+val LANGUAGES = ("Python", "C++", "JavaScript", "PHP","SQL", "HTML","Scala","Java","C","F#","ForTran","RPG","E","D","GoLang")
+val TECH_STACKS = ("Angular", "FastAPI", "Vue", "SQL(ite/alchemy)", "Flask", "ExpressJS", "Pyramid", "React")
 ```
 
 # ❤️🧑‍💻 Active Projects
