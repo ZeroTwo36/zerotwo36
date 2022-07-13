@@ -6,7 +6,6 @@
 
 val NICKNAME = "ZeroTwo36"
 val REALNAME = "Johanna"
-val BIRTHDAY = "26/02/2002"
 val GENDER = Gender().Female
 val NATIONALITY = Country().Germany
 val OCCUPATION = "Free/Paid Developer and DB Admin"
